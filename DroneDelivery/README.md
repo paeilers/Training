@@ -7,6 +7,7 @@ The purpose of the written software will be to accept input which will include t
 Assume that time and distance to each drop off location do not matter, and that size of each package is also irrelevant. It is also assumed that the cost to refuel and restock each drone is a constant and does not vary between drones. The maximum number of drones in a squad is 100, and there is no maximum number of deliveries which are required.
 
 Given Input
+
 Line 1: [Drone #1 Name], [#1 Maximum Weight], [Drone #2 Name], [#2 Maximum Weight], etc.
 Line 2: [Location #1 Name], [Location #1 Package Weight]
 Line 3: [Location #2 Name], [Location #2 Package Weight]
@@ -14,6 +15,7 @@ Line 4: [Location #3 Name], [Location #3 Package Weight]
 Etc.
 
 Expected Output
+
 [Drone #1 Name]
 Trip #1
 [Location #2 Name], [Location #3 Name]
