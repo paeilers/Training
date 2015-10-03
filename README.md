@@ -1,2 +1,2 @@
 # Training
-Training Project and Code Tests
+Training Projects and Code Tests
